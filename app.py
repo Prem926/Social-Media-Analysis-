@@ -11,7 +11,7 @@ from sklearn.cluster import KMeans
 from sklearn.linear_model import LinearRegression
 
 # Load the dataset
-data = pd.read_csv(r"C:\\Users\\hp\\OneDrive\\Desktop\\Hackathon\\superminded\\finalsocial.csv")
+data = pd.read_csv(r"finalsocial.csv")
 
 # Data preprocessing
 # Convert columns to appropriate types
